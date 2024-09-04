@@ -2,3 +2,11 @@ Q1: Why might be consider using git?
 
 Answer: Tracks changes made within a file so one can have a record
 of what has been done and go back to previous versions if need be.
+
+Q2: What field could data science be applied to? Give and Example 
+and how it might help
+
+Answer: Data science can be applied to a field in healthcare. 
+It can help analyze patient data to predict disease risks.
+An example of this can be analyzing large dataset of patients who had covid19
+and identify factors that decreased that virus.
