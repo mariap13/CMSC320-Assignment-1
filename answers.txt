@@ -10,3 +10,10 @@ Answer: Data science can be applied to a field in healthcare.
 It can help analyze patient data to predict disease risks.
 An example of this can be analyzing large dataset of patients who had covid19
 and identify factors that decreased that virus.
+
+Q3: What is the difference between merging and rebasing?
+
+Answer: Merging preserves the entire history of your repository (safe option), 
+while rebasing moves your branch onto the tip of main creating a form of
+linear history. Therefore, merging is combining two histories while rebasing
+is rewriting hsitory.
