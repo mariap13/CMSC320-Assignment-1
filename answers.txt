@@ -1,0 +1,4 @@
+Q1: Why might be consider using git?
+
+Answer: Tracks changes made within a file so one can have a record
+of what has been done and go back to previous versions if need be.
